@@ -5,6 +5,7 @@ import cv2
 from utils.sci_dataloader import SCITrainingDatasetSubset, SCITestDataset
 from utils.is_matrix_full_rank import *
 
+### yaping: your path to the dataset
 parser = argparse.ArgumentParser()
 parser.add_argument('--batch_size', type=int, default=1)
 parser.add_argument('--trainpath', default='/home/yaping/projects/data/SCI/matlab/')
