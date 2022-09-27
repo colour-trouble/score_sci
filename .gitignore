@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+score_sci/debug.py
+score_sci/assets/
+score_sci/checkpoints/
