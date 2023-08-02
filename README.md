@@ -2,9 +2,11 @@
 This repository contains the codes and experiments for the paper, Solving Inverse Problems in Snapshot Compressive Imaging with Score Generative Models. Implementation of the score model was forked from [Yang Song's repository](https://github.com/yang-song/score_sde_pytorch) and modified accordingly for our experiments, which was carried out in the environment defined in `score_sci/environment.yml`.
 
 Note that, you may encounter troubles setting up the exact environment and dependencies specified in the configuration file depending on your GPU model and CUDA version. If so, please refer to the original installation guides for relevant packages.
+
 ---
 # Contact
-If you have any queries, please feel free to reach out to me at my [email](zhenyuen.dev@gmail.com). Thank you :)
+If you have any doubts or queries, please feel free to reach out at my [email](zhenyuen.dev@gmail.com). Thank you :)
+
 ---
 # Getting started
 ## Downloading model checkpoints
