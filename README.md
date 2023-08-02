@@ -3,11 +3,10 @@ This repository contains the codes and experiments for the paper, Solving Invers
 
 Note that, you may encounter troubles setting up the exact environment and dependencies specified in the configuration file depending on your GPU model and CUDA version. If so, please refer to the original installation guides for relevant packages.
 
----
-# Contact
 If you have any doubts or queries, please feel free to reach out at my [email](zhenyuen.dev@gmail.com). Thank you :)
 
 ---
+
 # Getting started
 ## Downloading model checkpoints
 1. Download [model checkpoints](https://drive.google.com/drive/folders/1tFmF_uh57O6lx9ggtZT_5LdonVK2cV-e?usp=sharing) provided by Yang Song et al.
